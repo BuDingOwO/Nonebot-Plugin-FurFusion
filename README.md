@@ -23,7 +23,7 @@ git clone https://github.com/BuDingOwO/Nonebot-Plugin-FurFusion.git && cd Nonebo
 ```
 ## Note
 
-
+！！！由于开发者去学校了 所以该插件目前暂未完工
 
 ## 配置文件路径:
 
